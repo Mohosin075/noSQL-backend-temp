@@ -90,6 +90,7 @@ Ensure you have the following installed:
    EMAIL_PORT=587
    EMAIL_HOST=smtp.gmail.com
    ```
+   
 
 4. **Run the project:**
 
